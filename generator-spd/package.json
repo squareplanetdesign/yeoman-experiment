@@ -1,0 +1,16 @@
+{
+  "name": "generator-spd",
+  "version": "0.1.0",
+  "description": "First attempt to build a yoeman generator.",
+  "main": " ",
+  "keywords": [
+    "yoeman-generator",
+    "square-planet-design",
+    "first-attempt"
+  ],
+  "author": "Tom Green, Square Planet Design",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.17.0"
+  }
+}
